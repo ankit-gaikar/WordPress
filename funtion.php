@@ -1,5 +1,5 @@
 <?php 
-
+//function to add (Member List) menu in dashboard panel in wordpress
 add_action('admin_menu', 'test_plugin_setup_menu');
  
 function test_plugin_setup_menu(){
